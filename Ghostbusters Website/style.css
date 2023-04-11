@@ -1,0 +1,146 @@
+
+body {
+	margin: 0px;
+	background-color: #202727;
+}
+
+.settings {
+	position: fixed; 
+	top: 0px; 
+	width:3%;
+	z-index:5;
+	padding: 1.073vw;
+}
+
+.header {
+	font-family: 'Unbounded', cursive;
+	position: fixed; 
+	top: 0px; 
+	width:100%; 
+	height: 5.365vw; 
+	text-align: center; 
+	color: #fff;
+	background-color: rgba(60, 61, 62,0.8);
+	font-size: 1vw;
+  z-index: 3;
+}
+
+.subheader {
+	font-family: 'Unbounded', cursive;
+	position: fixed; 
+	top: 3.287vw; 
+	width:100%; 
+	height: 45px; 
+	text-align: center; 
+	color: #fff;
+	font-size: .9vw;
+	z-index: 3;
+}
+
+.nav {
+	position: fixed; 
+	top: 0;
+	left: 0;
+	right: 0;
+	width:100%;
+	background-color: rgba(51, 51, 51,0.6);
+	overflow: hidden;
+	display: flex;
+	justify-content: space-around;
+	padding-top: 5.365vw;
+	text-align: center;
+	backdrop-filter: blur(5px);
+  z-index: 2;
+}
+
+.nav a {
+	font-family: 'Unbounded', cursive;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 0.912vw;
+}
+.nav a:hover {
+	background-color: #ddd;
+	color: black;
+}
+
+.main {
+	width: 30%;
+	margin-left: 15%;
+	margin-top: 9.047vw;
+}
+
+.container {
+}
+
+.strange {
+	color: #fff;
+	margin-top: 5.365vw;
+	font-family: 'Unbounded', cursive;
+	float: left;
+	padding: 1.073vw;
+	margin-top: 8.511vw;
+	font-size: 0.9vw;
+}
+
+.ccgb {
+	color:#ffa200;
+	font-size: 1.341vw;
+}
+
+.ready {
+	color:#ffa200;
+	font-size: 1vw;
+}
+
+.tape {
+	width: 36.695vw;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 0.805vw;
+}
+
+.phone {
+	width: 7vw;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.twitter-timeline {
+	float:left;
+	margin-left: 20vw;
+	padding: 1vw;
+}
+
+.facebook {
+	padding: 1vw;
+}
+
+footer {
+	color: #fff;
+	font-family: 'Unbounded', cursive;
+	text-align: center; 
+	padding: 2vw;
+	background-color: black;
+}
+
+.youtube {
+	width: 67.06vw;
+	margin-left: 15vw;
+	padding: 0.805vw;
+}
+
+.grow img{
+transition: 1s ease;
+}
+
+.grow img:hover{
+-webkit-transform: scale(1.05);
+-ms-transform: scale(1.05);
+transform: scale(1.05);
+transition: 1s ease;
+}
