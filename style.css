@@ -68,8 +68,6 @@ body {
 	margin-top: 9.047vw;
 }
 
-.container {
-}
 
 .strange {
 	color: #fff;
@@ -217,7 +215,7 @@ transition: 1s ease;
 	}
 	
 	.main {
-		width: 97%;
+		width: 98%;
 		margin-left: 1%;
 		margin-top: 19vw;
 	}
@@ -247,12 +245,16 @@ transition: 1s ease;
 	
 	.f {
 		display: inline;
-		width: 50px;
+		width: 70px;
+		padding: 5px;
+		margin-left: 90px;
 	}
 	
 	.t {
 		display: inline;
-		width: 50px;
+		width: 70px;
+		padding: 5px;
+		margin-left: 90px;
 	}
 	
 	footer {
