@@ -240,4 +240,20 @@ transition: 1s ease;
 		margin-right: auto;
 		padding-bottom: 0.805vw;
 	}
+	
+	.mobtwitter {
+		display: none;
+	}
+	
+	.facebook {
+		display: none;
+	}
+	
+	.f {
+		width: 50px;
+	}
+	
+	.t {
+		width: 50px;
+	}
 }
