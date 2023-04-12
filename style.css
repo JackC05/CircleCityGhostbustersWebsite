@@ -148,14 +148,14 @@ transition: 1s ease;
 }
 
 @media screen and (max-width: 800px) {
-	.settings {
+	/*.settings {
 		display: inline;
 		position: fixed; 
 		top: 0px; 
 		width:10%;
 		z-index:5;
 		padding: 1.073vw;
-	}
+	}*/
 	
 	.header {
 		font-family: 'Unbounded', cursive;
@@ -254,7 +254,7 @@ transition: 1s ease;
 		display: inline;
 		width: 70px;
 		padding: 5px;
-		margin-left: 25%;
+		margin-left: 30%;
 	}
 	
 	footer {
