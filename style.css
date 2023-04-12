@@ -210,7 +210,6 @@ transition: 1s ease;
 	
 	.ccgb {
 		text-align: center;
-
 		color:#ffa200;
 		font-size: 15px;
 	}
@@ -230,7 +229,7 @@ transition: 1s ease;
 	.phone {
 		width: 7vw;
 		display: block;
-		margin-left: 5vw;
+		margin-left: auto;
 		margin-right: auto;
 	}
 	
