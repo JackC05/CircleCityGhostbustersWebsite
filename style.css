@@ -120,6 +120,14 @@ body {
 	padding: 1vw;
 }
 
+.f {
+	display: none;
+}
+	
+.t {
+	display: none;
+}
+
 footer {
 	color: #fff;
 	font-family: 'Unbounded', cursive;
