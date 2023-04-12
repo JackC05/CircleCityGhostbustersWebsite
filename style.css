@@ -201,11 +201,10 @@ transition: 1s ease;
 	}
 	
 	.strange {
-		 text-align: center;
+		text-align: center;
 		color: #fff;
 		font-family: 'Unbounded', cursive;
 		float: left;
-		padding: .2vw;
 		font-size: 11.75px;
 	}
 	
