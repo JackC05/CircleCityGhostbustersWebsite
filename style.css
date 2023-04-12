@@ -170,6 +170,14 @@ transition: 1s ease;
 		z-index: 3;
 	}
 	
+	a:link {
+		color:#ffa200;
+	}
+	
+	a:visited {
+		color:#ffa200;
+	}
+	
 	.subheader {
 		font-family: 'Unbounded', cursive;
 		position: fixed; 
