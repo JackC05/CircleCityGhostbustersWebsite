@@ -201,6 +201,7 @@ transition: 1s ease;
 	}
 	
 	.strange {
+		 text-align: center;
 		color: #fff;
 		font-family: 'Unbounded', cursive;
 		float: left;
@@ -209,11 +210,14 @@ transition: 1s ease;
 	}
 	
 	.ccgb {
+		text-align: center;
+
 		color:#ffa200;
 		font-size: 15px;
 	}
 
 	.ready {
+		text-align: center;
 		color:#ffa200;
 		font-size: 12px;
 	}
