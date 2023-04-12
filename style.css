@@ -5,11 +5,7 @@ body {
 }
 
 .settings {
-	position: fixed; 
-	top: 0px; 
-	width:3%;
-	z-index:5;
-	padding: 1.073vw;
+	display: none;
 }
 
 .header {
@@ -154,6 +150,15 @@ transition: 1s ease;
 }
 
 @media screen and (max-width: 800px) {
+	.settings {
+		display: inline;
+		position: fixed; 
+		top: 0px; 
+		width:10%;
+		z-index:5;
+		padding: 1.073vw;
+	}
+	
 	.header {
 		font-family: 'Unbounded', cursive;
 		position: fixed; 
