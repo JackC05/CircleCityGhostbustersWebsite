@@ -145,7 +145,7 @@ transform: scale(1.05);
 transition: 1s ease;
 }
 
-@media (max-width: 900px) {
+@media only screen and (max-width: 900px) {
 	.header {
 		font-family: 'Unbounded', cursive;
 		position: fixed; 
