@@ -230,7 +230,7 @@ transition: 1s ease;
 	}
 	
 	.tape {
-		width: 50vw;
+		width: 90%;
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
@@ -253,5 +253,9 @@ transition: 1s ease;
 	.t {
 		display: inline;
 		width: 50px;
+	}
+	
+	footer {
+		font-size: 10px;
 	}
 }
