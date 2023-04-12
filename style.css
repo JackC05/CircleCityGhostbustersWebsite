@@ -111,12 +111,12 @@ body {
 }
 
 .twitter-timeline {
-	float:left;
-	margin-left: 20vw;
 	padding: 1vw;
 }
 
 .facebook {
+	float:left;
+	margin-left: 20vw;
 	padding: 1vw;
 }
 
